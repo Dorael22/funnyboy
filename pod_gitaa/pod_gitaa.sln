@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pod_gitaa", "pod_gitaa\pod_gitaa.csproj", "{B333CEB7-EDAA-405F-977A-656AD80F482E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B333CEB7-EDAA-405F-977A-656AD80F482E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B333CEB7-EDAA-405F-977A-656AD80F482E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B333CEB7-EDAA-405F-977A-656AD80F482E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B333CEB7-EDAA-405F-977A-656AD80F482E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A2CECA-DA45-49EE-B7F2-85BB1578F6FB}
+	EndGlobalSection
+EndGlobal
